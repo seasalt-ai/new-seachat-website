@@ -20,7 +20,6 @@ if ! git diff-index --quiet HEAD --; then
 fi
 
 npm run build
-npm run seo-update
 
 if [[ ! -d "$BUILD_DIR" ]]; then
   echo "✘ Build directory '$BUILD_DIR' not found. Did you run your build?" >&2
