@@ -1,0 +1,732 @@
+{
+  "common": {
+    "getStarted": "Começar Gratuitamente",
+    "signIn": "Entrar",
+    "learnMore": "Saiba Mais",
+    "readMore": "Ler Mais",
+    "viewAll": "Ver Todos os Artigos",
+    "tryNow": "Experimente Agora",
+    "contactUs": "Contate-nos",
+    "subscribe": "Inscrever-se",
+    "search": "Buscar",
+    "back": "Voltar"
+  },
+  "header": {
+    "features": "Recursos",
+    "integrations": "Integrações",
+    "solutions": "Soluções",
+    "pricing": "Preços",
+    "blog": "Blog",
+    "language": "Idioma",
+    "featuresDropdown": {
+      "humanAgents": "Chat com Agentes Humanos",
+      "aiAutomation": "Automação com IA",
+      "advancedAI": "Recursos Avançados de IA",
+      "knowledgeBase": "Base de Conhecimento",
+      "voiceAgents": "Agentes de Voz",
+      "analytics": "Análises e Insights",
+      "omnichannel": "Suporte Omnichannel",
+      "api": "API e Ferramentas para Desenvolvedores"
+    },
+    "integrationsDropdown": {
+      "websites": "Plataformas de Sites",
+      "crm": "Sistemas CRM",
+      "ecommerce": "E-commerce",
+      "socialMedia": "Redes Sociais",
+      "communication": "Ferramentas de Comunicação",
+      "marketing": "Plataformas de Marketing",
+      "calendar": "Calendário e Agendamento",
+      "api": "API Personalizada"
+    },
+    "solutionsDropdown": {
+      "ecommerce": "E-commerce e Varejo",
+      "healthcare": "Saúde",
+      "fintech": "Serviços Financeiros",
+      "education": "Educação",
+      "realEstate": "Imobiliário",
+      "travel": "Viagens e Hospitalidade",
+      "saas": "SaaS e Tecnologia",
+      "smallBusiness": "Pequenas Empresas"
+    }
+  },
+  "hero": {
+    "title": "Comece Grátis com",
+    "subtitle": "Agentes ao Vivo",
+    "description": "Transforme o suporte ao cliente com nossa plataforma omnichannel. Comece com agentes humanos a custo zero, depois integre automação com IA conforme você cresce.",
+    "startFree": "Comece Grátis Agora",
+    "exploreAI": "Explorar Recursos de IA",
+    "alwaysFree": "Plano Sempre Gratuito",
+    "integrations": "30+ Integrações",
+    "setup": "Configuração em 2 Minutos",
+    "chat": {
+      "userMessage": "Olá! Preciso de ajuda com meu pedido",
+      "botMessage": "Olá! Ficarei feliz em ajudá-lo com seu pedido. Poderia fornecer o número do seu pedido?",
+      "userMessage2": "Posso ajudá-lo a se conectar com um agente humano ou fornecer assistência imediata de IA. Como você prefere prosseguir?",
+      "typePlaceholder": "Digite sua mensagem...",
+      "online": "Online",
+      "supportTitle": "Suporte SeaChat"
+    }
+  },
+  "keyFeatures": {
+    "title": "Por Que Escolher o SeaChat?",
+    "subtitle": "Experimente a combinação perfeita de toque humano e eficiência de IA. Comece grátis, escale de forma inteligente, tenha sucesso mais rápido.",
+    "aiAutomation": {
+      "hero": {
+        "title": "Automação IA Inteligente",
+        "subtitle": "Escale o suporte ao cliente perfeitamente com IA que aprende e se adapta",
+        "description": "Descubra como nossa tecnologia IA avançada pode transformar suas operações de suporte ao cliente, fornecendo respostas instantâneas e precisas enquanto mantém o toque humano quando necessário.",
+        "cta": "Iniciar Teste Gratuito de IA",
+        "demo": "Ver Demo"
+      },
+      "stats": {
+        "responseTime": {
+          "value": "< 2s",
+          "label": "Tempo Médio de Resposta"
+        },
+        "accuracy": {
+          "value": "95%",
+          "label": "Precisão da Resposta"
+        },
+        "availability": {
+          "value": "24/7",
+          "label": "Disponibilidade"
+        },
+        "languages": {
+          "value": "50+",
+          "label": "Idiomas Suportados"
+        }
+      },
+      "aiStrengths": [
+        "Respostas instantâneas 24/7",
+        "Tratamento consistente de múltiplas consultas",
+        "Análise de dados e insights",
+        "Escalabilidade sem limites",
+        "Suporte multilíngue",
+        "Aprendizado e melhoria contínuos"
+      ],
+      "humanStrengths": [
+        "Empatia e compreensão emocional",
+        "Resolução de problemas complexos",
+        "Criatividade em soluções",
+        "Construção de relacionamentos pessoais",
+        "Adaptação a situações únicas",
+        "Tomada de decisões éticas"
+      ],
+      "features": {
+        "title": "Recursos Avançados de IA",
+        "subtitle": "Descubra como nossa tecnologia IA melhora a experiência de suporte ao cliente",
+        "list": [
+          {
+            "title": "Processamento de Linguagem Natural",
+            "description": "Compreende e interpreta consultas de clientes com alta precisão",
+            "icon": "MessageSquare"
+          },
+          {
+            "title": "Aprendizado Adaptativo",
+            "description": "Melhora continuamente as respostas baseadas em interações",
+            "icon": "Brain"
+          },
+          {
+            "title": "Integração Perfeita",
+            "description": "Transição suave entre IA e agentes humanos",
+            "icon": "Zap"
+          },
+          {
+            "title": "Insights em Tempo Real",
+            "description": "Análise instantânea de tendências de suporte ao cliente",
+            "icon": "BarChart3"
+          }
+        ]
+      },
+      "comparison": {
+        "title": "IA + Humanos: O Melhor dos Dois Mundos",
+        "subtitle": "Descubra como IA e agentes humanos se complementam para fornecer suporte excepcional ao cliente",
+        "aiTitle": "Pontos Fortes da IA",
+        "humanTitle": "Pontos Fortes Humanos",
+        "hybridTitle": "Abordagem Híbrida",
+        "hybridDescription": "Ao combinar IA com expertise humana, oferecemos uma solução abrangente que traz eficiência, empatia e excelência no suporte ao cliente."
+      },
+      "useCases": {
+        "title": "Casos de Uso do Mundo Real",
+        "subtitle": "Veja como a automação IA transforma negócios em todas as indústrias",
+        "cases": [
+          {
+            "title": "Suporte E-commerce",
+            "description": "Automatiza consultas de produtos, rastreamento de pedidos e processamento de devoluções",
+            "metrics": {
+              "efficiency": "70% melhoria na eficiência",
+              "satisfaction": "85% satisfação do cliente",
+              "cost": "50% economia de custos"
+            }
+          },
+          {
+            "title": "Suporte SaaS",
+            "description": "Ajuda usuários com configuração, solução de problemas e recursos",
+            "metrics": {
+              "resolution": "90% resolução na primeira tentativa",
+              "response": "< 30s tempo de resposta",
+              "availability": "24/7 disponibilidade"
+            }
+          },
+          {
+            "title": "Serviços Financeiros",
+            "description": "Lida com consultas de conta, transações e conformidade",
+            "metrics": {
+              "accuracy": "99% precisão",
+              "security": "Conformidade completa",
+              "speed": "5x mais rápido"
+            }
+          }
+        ]
+      },
+      "implementation": {
+        "title": "Implementação Fácil em 3 Passos",
+        "subtitle": "Comece com automação IA em minutos, não meses",
+        "steps": [
+          {
+            "title": "Carregar Conteúdo",
+            "description": "Carregue sua base de conhecimento, FAQs e documentação existente",
+            "icon": "Upload"
+          },
+          {
+            "title": "Treinar IA",
+            "description": "Nosso sistema aprende do seu conteúdo e se adapta à voz da sua marca",
+            "icon": "Settings"
+          },
+          {
+            "title": "Implantar e Monitorar",
+            "description": "Entre no ar e monitore o desempenho com melhoria contínua",
+            "icon": "Rocket"
+          }
+        ]
+      },
+      "cta": {
+        "title": "Pronto para Transformar o Suporte ao Cliente?",
+        "subtitle": "Comece seu teste gratuito hoje e descubra o poder da automação IA",
+        "primaryButton": "Iniciar Teste Gratuito",
+        "secondaryButton": "Agendar Demo"
+      }
+    },
+    "humanAgents": {
+      "title": "Agentes Humanos Realmente Gratuitos 🍺 🎙️",
+      "description": "Comece com 1 agente humano gratuito para sempre—sim, para sempre! Sem limites, sem restrições, sem pegadinhas.",
+      "badge": "Gratuito Para Sempre",
+      "highlights": [
+        "Conversas de chat ilimitadas",
+        "Acesso ilimitado ao histórico de chat",
+        "Contatos e criação de rede ilimitados",
+        "Liberdade para exportar todos os seus dados"
+      ]
+    },
+    "aiAutomation": {
+      "title": "Automação com IA Perfeita",
+      "description": "Escale sem esforço com IA inteligente que aprende com suas conversas e documentos.",
+      "highlights": [
+        "Respostas automáticas inteligentes",
+        "Aprendizado com interações",
+        "Respostas conscientes do contexto"
+      ]
+    },
+    "omnichannel": {
+      "title": "Conectividade Omnichannel",
+      "description": "Conecte todos os seus canais de comunicação em uma plataforma unificada para suporte consistente.",
+      "highlights": [
+        "30+ integrações",
+        "Caixa de entrada unificada",
+        "Sincronização multiplataforma"
+      ]
+    },
+    "trulyFree": {
+      "title": "Plano Realmente Gratuito como em Gratuito 🍺 & 🎙️",
+      "description": "Apresentando o Modo de Agente Humano do SeaChat: Seu Bilhete para uma Liberdade de Comunicação Incomparável! Temos o prazer de apresentar 1 agente humano <span class=\"font-bold text-green-600\">gratuito para sempre</span>—sim, você ouviu direito, para sempre!",
+      "freeFeatures": {
+        "unlimitedChat": {
+          "title": "Chat Ilimitado",
+          "description": "Participe de quantas conversas precisar, sem limites ou restrições."
+        },
+        "unlimitedHistory": {
+          "title": "Histórico Ilimitado",
+          "description": "Nunca perca uma conversa—acesse seu histórico completo de chat a qualquer momento."
+        },
+        "unlimitedContacts": {
+          "title": "Contatos Ilimitados",
+          "description": "Construa sua rede sem restrições ou limites de contatos."
+        },
+        "freedomToExport": {
+          "title": "Liberdade para Exportar",
+          "description": "Seus dados, suas regras—exporte todo seu histórico de chat sem esforço."
+        }
+      },
+      "whyChoose": "Por Que Escolher o SeaChat? Porque É Verdadeiramente Gratuito!",
+      "whatYouGet": "✅ O Que Você Obtém GRÁTIS Para Sempre:",
+      "freeForeverFeatures": [
+        "1 Agente Humano para a Vida",
+        "Conversas de Chat Ilimitadas",
+        "Acesso Completo ao Histórico de Chat",
+        "Gerenciamento de Contatos Ilimitado",
+        "Direitos Completos de Exportação de Dados"
+      ],
+      "scaleWhenReady": "🚀 Escale Quando Estiver Pronto:",
+      "scaleFeatures": [
+        "Adicionar Automação com IA",
+        "Integrações Avançadas",
+        "Recursos de Agente de Voz",
+        "Segurança Empresarial",
+        "Fluxos de Trabalho Personalizados"
+      ],
+      "startButton": "Comece Com Seu Agente Gratuito Agora - Sem Cartão de Crédito Necessário!"
+    },
+    "statsBar": {
+      "unlimited": "Chats ilimitados para sempre",
+      "fileTypes": "30+ tipos de arquivos suportados",
+      "setupTime": "2min tempo médio de configuração",
+      "availability": "Disponibilidade de IA 24/7 quando estiver pronto"
+    }
+  },
+  "featureTabs": {
+    "title": "Recursos Poderosos, Configuração Simples",
+    "subtitle": "Explore nosso conjunto abrangente de recursos projetado para transformar sua experiência de suporte ao cliente.",
+    "tabs": {
+      "agentChat": "Chat com Agente",
+      "aiAgent": "Agente IA",
+      "advancedAI": "IA Avançada",
+      "knowledgeBase": "Base de Conhecimento",
+      "integrations": "Integrações"
+    },
+    "content": {
+      "agentChat": {
+        "title": "Excelência de Agentes Humanos",
+        "subtitle": "Comece com suporte humano real, completamente gratuito",
+        "features": [
+          "Horas ilimitadas de agente gratuito",
+          "Gerenciamento de conversas em tempo real",
+          "Colaboração multi-agente",
+          "Rotulagem e roteamento avançados",
+          "Análise de desempenho",
+          "Fluxos de trabalho personalizados"
+        ],
+        "tryFeature": "Experimentar Este Recurso",
+        "watchDemo": "Assistir Demo"
+      },
+      "aiAgent": {
+        "title": "Automação IA Inteligente",
+        "subtitle": "Escale perfeitamente com IA inteligente que aprende",
+        "features": [
+          "Respostas conscientes do contexto",
+          "Aprendizado com conversas",
+          "Transferência perfeita para humanos",
+          "Suporte multilíngue",
+          "Treinamento de IA personalizado",
+          "Capacidades de agente de voz"
+        ],
+        "tryFeature": "Experimentar Este Recurso",
+        "watchDemo": "Assistir Demo"
+      },
+      "advancedAI": {
+        "title": "Inteligência IA de Próxima Geração",
+        "subtitle": "Recursos avançados de IA para experiências personalizadas",
+        "features": [
+          "Geração Aumentada por Recuperação (RAG)",
+          "Sistema de memória de usuário de longo prazo",
+          "Respostas contextuais conscientes do tempo",
+          "Extração inteligente de contexto",
+          "Resultados de chat referenciados",
+          "Refinamento de base de conhecimento"
+        ],
+        "tryDemo": "Experimentar Demo de IA Avançada",
+        "watchAI": "Ver IA em Ação"
+      },
+      "knowledgeBase": {
+        "title": "Hub de Conhecimento Abrangente",
+        "subtitle": "Faça upload de 30+ tipos de arquivos para respostas instantâneas de IA",
+        "features": [
+          "Suporte a PDF, Excel, CSV, Word",
+          "Ingestão de conteúdo de sites",
+          "Processamento de imagens e vídeos",
+          "Formatação rica de respostas",
+          "Conteúdo com atualização automática",
+          "Controle de versão"
+        ],
+        "tryFeature": "Experimentar Este Recurso",
+        "watchDemo": "Assistir Demo"
+      },
+      "integrations": {
+        "title": "Integrações Poderosas",
+        "subtitle": "Conecte-se com suas ferramentas e plataformas favoritas",
+        "features": [
+          "Integrações CRM (Salesforce, HubSpot)",
+          "Agendamento de calendário (Google, Outlook)",
+          "Plataformas de e-commerce",
+          "Ferramentas de marketing",
+          "Acesso a API personalizada",
+          "Suporte a webhook"
+        ],
+        "tryFeature": "Experimentar Este Recurso",
+        "watchDemo": "Assistir Demo"
+      }
+    }
+  },
+  "features": {
+    "voiceAgents": {
+      "hero": {
+        "title": "Agentes de Voz Avançados",
+        "subtitle": "Transforme o suporte de voz ao cliente com agentes IA inteligentes",
+        "description": "Descubra como nossos agentes de voz alimentados por IA podem fornecer suporte de voz natural e responsivo 24/7.",
+        "cta": "Iniciar Teste de Agente de Voz",
+        "demo": "Assistir Demo"
+      },
+      "featuresList": [
+        "Processamento de fala natural",
+        "Suporte multilíngue",
+        "Integração com sistemas telefônicos",
+        "Análise de sentimento de voz",
+        "Gravação e análise de chamadas",
+        "Escalação inteligente para humanos"
+      ]
+    }
+  },
+  "omnichannelDemo": {
+    "title": "Implante Onde Seus Clientes Estão",
+    "subtitle": "Conecte perfeitamente todos os seus pontos de contato com clientes em sites, redes sociais e plataformas de comunicação. Passe o mouse sobre cada canal para ver métricas de desempenho em tempo real.",
+    "channels": {
+      "website": {
+        "name": "Site",
+        "description": "Widget universal que funciona em qualquer site HTML"
+      },
+      "whatsapp": {
+        "name": "WhatsApp",
+        "description": "Conecte-se com clientes no aplicativo de mensagens mais popular do mundo"
+      },
+      "instagram": {
+        "name": "Instagram",
+        "description": "Gerencie DMs do Instagram e respostas a stories em uma caixa de entrada unificada"
+      },
+      "facebook": {
+        "name": "Facebook",
+        "description": "Forneça suporte ao cliente através da plataforma de mensagens do Facebook"
+      },
+      "line": {
+        "name": "LINE",
+        "description": "Conecte-se com clientes na popular plataforma de mensagens asiática"
+      },
+      "phone": {
+        "name": "Chamada Telefônica",
+        "description": "Gerencie suporte de voz com agentes de voz IA"
+      },
+      "email": {
+        "name": "Email",
+        "description": "Gerencie tickets de email com roteamento inteligente"
+      },
+      "ecommerce": {
+        "name": "E-commerce",
+        "description": "Integre com lojas online para gerenciamento de pedidos"
+      }
+    },
+    "platformCategories": {
+      "website": {
+        "title": "Integração com Site",
+        "description": "Implante em qualquer plataforma de site com nosso widget universal"
+      },
+      "socialMedia": {
+        "title": "Redes Sociais",
+        "description": "Conecte-se com clientes em suas plataformas sociais favoritas"
+      },
+      "traditional": {
+        "title": "Canais Tradicionais",
+        "description": "Mantenha suporte através de métodos de comunicação clássicos"
+      }
+    },
+    "quickSetup": {
+      "title": "Pronto para Implantar em Todo Lugar?",
+      "subtitle": "Comece em minutos com nosso processo de integração simples",
+      "steps": [
+        {
+          "title": "Escolha Seus Canais",
+          "description": "Selecione entre 8+ opções de implantação"
+        },
+        {
+          "title": "Copie e Cole o Código",
+          "description": "Instalação simples do widget"
+        },
+        {
+          "title": "Comece a Conversar",
+          "description": "Comece a atender clientes instantaneamente"
+        }
+      ],
+      "button": "Iniciar Implantação Gratuita"
+    }
+  },
+  "pricing": {
+    "title": "Preços que Crescem com Você",
+    "subtitle": "Comece completamente grátis com agentes humanos, depois adicione IA quando estiver pronto para escalar.",
+    "monthly": "Mensal",
+    "yearly": "Anual",
+    "save": "Economize 20%",
+    "customize": "Personalize Seu Plano",
+    "chatVolume": "Volume Mensal de Chat",
+    "agents": "Número de Agentes",
+    "plans": {
+      "free": {
+        "name": "Gratuito Para Sempre",
+        "description": "Perfeito para começar com agentes humanos",
+        "price": "0",
+        "period": "/mês",
+        "features": [
+          "Horas ilimitadas de agente humano",
+          "Widget de chat básico",
+          "Suporte por email",
+          "3 canais (Web, Email, Telefone)",
+          "Análises básicas",
+          "Suporte da comunidade"
+        ],
+        "limitations": ["Sem automação de IA", "Integrações limitadas"],
+        "button": "Começar Grátis"
+      },
+      "starter": {
+        "name": "IA Inicial",
+        "description": "Adicione automação com IA para escalar seu suporte",
+        "badge": "Mais Popular",
+        "features": [
+          "Tudo no plano Gratuito",
+          "Automação de agente IA",
+          "Base de conhecimento (5GB)",
+          "Análises avançadas",
+          "Suporte prioritário por email",
+          "10 integrações",
+          "Personalização de marca"
+        ],
+        "button": "Iniciar Teste de IA"
+      },
+      "growth": {
+        "name": "Crescimento",
+        "description": "Recursos avançados para equipes em crescimento",
+        "features": [
+          "Tudo no plano Inicial",
+          "Treinamento avançado de IA",
+          "Base de conhecimento ilimitada",
+          "Agentes de voz",
+          "Acesso à API",
+          "Fluxos de trabalho personalizados",
+          "Suporte por telefone"
+        ],
+        "button": "Experimentar Crescimento"
+      },
+      "enterprise": {
+        "name": "Empresarial",
+        "description": "Soluções personalizadas para grandes organizações",
+        "features": [
+          "Tudo no plano Crescimento",
+          "Gerente de sucesso dedicado",
+          "Integrações personalizadas",
+          "Segurança avançada",
+          "Garantias de SLA",
+          "Implantação local",
+          "Suporte por telefone 24/7"
+        ],
+        "button": "Contatar Vendas"
+      }
+    },
+    "enterprise": {
+      "title": "Precisa de Algo Personalizado?",
+      "description": "Oferecemos soluções empresariais personalizadas incluindo implantação local, recursos avançados de segurança e equipes de suporte dedicadas.",
+      "button": "Agendar Demo Empresarial"
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "questions": [
+        {
+          "question": "O plano gratuito é realmente gratuito para sempre?",
+          "answer": "Sim! Nosso plano gratuito inclui 1 agente humano para a vida toda com conversas ilimitadas, histórico de chat e contatos. Sem necessidade de cartão de crédito, sem taxas ocultas."
+        },
+        {
+          "question": "Posso atualizar ou rebaixar meu plano a qualquer momento?",
+          "answer": "Absolutamente! Você pode alterar seu plano a qualquer momento. Atualizações entram em vigor imediatamente, e rebaixamentos entram em vigor no final do seu ciclo de cobrança atual."
+        },
+        {
+          "question": "O que acontece com meus dados se eu cancelar?",
+          "answer": "Você é dono dos seus dados. Você pode exportar todo o seu histórico de chat, contatos e conteúdo da base de conhecimento a qualquer momento, mesmo no plano gratuito."
+        },
+        {
+          "question": "Vocês oferecem preços personalizados para grandes empresas?",
+          "answer": "Sim! Oferecemos soluções empresariais personalizadas com descontos por volume, suporte dedicado e recursos especializados. Entre em contato com nossa equipe de vendas para uma cotação personalizada."
+        }
+      ]
+    }
+  },
+  "knowledgeBase": {
+    "title": "Base de Conhecimento Poderosa",
+    "subtitle": "Faça upload de 30+ tipos de arquivos e deixe a IA fornecer respostas ricas e contextuais com cards, botões, imagens e vídeos.",
+    "supportedFormats": {
+      "title": "Tipos de Arquivos Suportados",
+      "formats": {
+        "pdf": {
+          "name": "Documentos PDF",
+          "count": "15 arquivos"
+        },
+        "excel": {
+          "name": "Planilhas Excel",
+          "count": "8 arquivos"
+        },
+        "word": {
+          "name": "Documentos Word",
+          "count": "12 arquivos"
+        },
+        "images": {
+          "name": "Imagens",
+          "count": "25 imagens"
+        },
+        "websites": {
+          "name": "Sites",
+          "count": "5 sites"
+        },
+        "videos": {
+          "name": "Vídeos",
+          "count": "3 vídeos"
+        }
+      },
+      "richResponse": {
+        "title": "Formatação de Resposta Rica:",
+        "features": [
+          "Cards Interativos",
+          "Botões de Ação",
+          "Imagens Incorporadas",
+          "Respostas em Vídeo"
+        ]
+      },
+      "addDocuments": "Adicionar Seus Documentos"
+    },
+    "uploadModal": {
+      "title": "Carregar Seus Documentos",
+      "dropzone": {
+        "title": "Solte seus arquivos aqui",
+        "description": "Suporte para PDF, Word, Excel, imagens, vídeos e mais",
+        "button": "Escolher Arquivos"
+      },
+      "demoFiles": [
+        "sample_manual.pdf",
+        "product_data.xlsx",
+        "brand_guide.jpg"
+      ],
+      "close": "Fechar Demo"
+    }
+  },
+  "useCases": {
+    "title": "Histórias de Sucesso em Diversas Indústrias",
+    "subtitle": "Veja como empresas transformam seu suporte ao cliente com a abordagem híbrida humano-IA do SeaChat.",
+    "cases": {
+      "ecommerce": {
+        "title": "Revolução no Suporte de E-commerce",
+        "industry": "Varejo",
+        "challenge": "Gerenciar 500+ consultas diárias de clientes em múltiplos canais com equipe limitada",
+        "solution": "Implantação do SeaChat com agentes IA lidando com 70% das consultas rotineiras, agentes humanos para questões complexas",
+        "results": [
+          "60% de redução no tempo de resposta",
+          "40% de aumento na satisfação do cliente",
+          "75% de economia nos custos de operações de suporte"
+        ],
+        "metrics": {
+          "responseTime": "< 30s",
+          "satisfaction": "94%",
+          "cost": "-75%"
+        }
+      },
+      "healthcare": {
+        "title": "Suporte a Pacientes na Área de Saúde",
+        "industry": "Saúde",
+        "challenge": "Fornecer suporte 24/7 a pacientes mantendo conformidade com HIPAA",
+        "solution": "Integração de agentes IA seguros com agendamento de consultas e pré-triagem de sintomas",
+        "results": [
+          "Assistência a pacientes 24/7",
+          "50% de redução em faltas",
+          "100% de conformidade HIPAA mantida"
+        ],
+        "metrics": {
+          "availability": "24/7",
+          "noShows": "-50%",
+          "compliance": "100%"
+        }
+      },
+      "fintech": {
+        "title": "Excelência em Serviços Financeiros",
+        "industry": "FinTech",
+        "challenge": "Lidar com consultas financeiras sensíveis com velocidade e segurança",
+        "solution": "Treinamento personalizado de IA em regulamentações financeiras com escalação perfeita para humanos",
+        "results": [
+          "90% de resolução no primeiro contato",
+          "Processamento de consultas 3x mais rápido",
+          "Protocolos de segurança aprimorados"
+        ],
+        "metrics": {
+          "resolution": "90%",
+          "speed": "3x",
+          "security": "Aprimorada"
+        }
+      }
+    },
+    "cta": {
+      "title": "Pronto para Transformar Seu Suporte?",
+      "description": "Junte-se a centenas de empresas que já usam o SeaChat para oferecer experiências excepcionais aos clientes.",
+      "buttons": {
+        "viewCases": "Ver Todos os Estudos de Caso",
+        "startStory": "Comece Sua História de Sucesso"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Amado por Equipes de Suporte em Todo o Mundo",
+    "subtitle": "Não apenas acredite em nossa palavra. Veja o que nossos clientes dizem sobre transformar seu suporte com o SeaChat.",
+    "navigation": {
+      "previous": "Anterior",
+      "next": "Próximo"
+    },
+    "trustedBy": "Confiado por empresas inovadoras em todo o mundo",
+    "stats": {
+      "customers": "10.000+ Clientes Felizes",
+      "uptime": "99,9% de Tempo de Atividade",
+      "messages": "50M+ Mensagens Processadas",
+      "rating": "4,9/5 Avaliação de Clientes"
+    }
+  },
+  "blog": {
+    "title": "Últimos Insights e Recursos",
+    "subtitle": "Mantenha-se à frente com insights especializados sobre tendências de suporte ao cliente, estratégias de implementação de IA e dicas de otimização de plataforma.",
+    "categories": {
+      "all": "Todos",
+      "ai": "IA e Automação",
+      "strategy": "Estratégia",
+      "integration": "Integração",
+      "knowledge": "Gestão de Conhecimento",
+      "success": "Sucesso do Cliente"
+    },
+    "featured": "Destaque",
+    "latest": "Artigos Recentes",
+    "readTime": "min de leitura",
+    "stayUpdated": "Mantenha-se Atualizado",
+    "newsletterSubtitle": "Receba os últimos insights sobre suporte ao cliente com IA, atualizações da plataforma e melhores práticas do setor em sua caixa de entrada.",
+    "joinProfessionals": "Junte-se a 5.000+ profissionais de suporte. Cancele a qualquer momento."
+  },
+  "solutions": {
+    "fintech": {
+      "securityFeatures": [
+        "Criptografia de ponta a ponta integrada",
+        "Autenticação multifator",
+        "Auditorias de segurança regulares",
+        "Proteção de dados"
+      ]
+    }
+  },
+  "footer": {
+    "product": "Produto",
+    "company": "Empresa",
+    "resources": "Recursos",
+    "legal": "Legal e Suporte",
+    "getStarted": "Pronto para Começar?",
+    "joinThousands": "Junte-se a milhares de empresas que já usam o SeaChat para oferecer experiências excepcionais aos clientes.",
+    "enterEmail": "Digite seu email",
+    "noCredit": "Sem necessidade de cartão de crédito • Configuração em 2 minutos • Cancele a qualquer momento",
+    "copyright": "© 2024 SeaChat. Todos os direitos reservados.",
+    "compliance": "🔒 Compatível com SOC 2",
+    "gdpr": "🛡️ Pronto para GDPR",
+    "uptime": "⚡ 99,9% de Tempo de Atividade"
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "common": {
+    "getStarted": "무료로 시작하기",
+    "signIn": "로그인",
+    "learnMore": "더 알아보기",
+    "readMore": "더 읽기",
+    "viewAll": "모든 글 보기",
+    "tryNow": "지금 시도하기",
+    "contactUs": "문의하기",
+    "subscribe": "구독하기",
+    "search": "검색",
+    "back": "뒤로"
+  },
+  "header": {
+    "features": "기능",
+    "integrations": "통합",
+    "solutions": "솔루션",
+    "pricing": "가격",
+    "blog": "블로그",
+    "language": "언어",
+    "featuresDropdown": {
+      "humanAgents": "인간 상담원 채팅",
+      "aiAutomation": "AI 자동화",
+      "advancedAI": "고급 AI 기능",
+      "knowledgeBase": "지식 베이스",
+      "voiceAgents": "음성 상담원",
+      "analytics": "분석 및 인사이트",
+      "omnichannel": "옴니채널 지원",
+      "api": "API 및 개발자 도구"
+    },
+    "integrationsDropdown": {
+      "websites": "웹사이트 플랫폼",
+      "crm": "CRM 시스템",
+      "ecommerce": "이커머스",
+      "socialMedia": "소셜 미디어",
+      "communication": "커뮤니케이션 도구",
+      "marketing": "마케팅 플랫폼",
+      "calendar": "일정 및 예약",
+      "api": "커스텀 API"
+    },
+    "solutionsDropdown": {
+      "ecommerce": "이커머스 및 소매",
+      "healthcare": "헬스케어",
+      "fintech": "금융 서비스",
+      "education": "교육",
+      "realEstate": "부동산",
+      "travel": "여행 및 호텔",
+      "saas": "SaaS 및 기술",
+      "smallBusiness": "소규모 비즈니스"
+    }
+  },
+  "hero": {
+    "title": "실시간 상담원으로",
+    "subtitle": "무료 시작",
+    "description": "옴니채널 플랫폼으로 고객 지원을 혁신하세요. 무료 인간 상담원으로 시작하고, 성장에 따라 AI 자동화를 원활하게 통합하세요.",
+    "startFree": "지금 무료로 시작",
+    "exploreAI": "AI 기능 살펴보기",
+    "alwaysFree": "항상 무료 플랜",
+    "integrations": "30+ 통합",
+    "setup": "2분 설정",
+    "chat": {
+      "userMessage": "안녕하세요! 제 주문에 대한 도움이 필요합니다",
+      "botMessage": "안녕하세요! 주문에 관해 도와드리겠습니다. 주문 번호를 알려주시겠어요?",
+      "userMessage2": "인간 상담원과 연결하거나 즉시 AI 지원을 제공해 드릴 수 있습니다. 어떻게 진행하시겠어요?",
+      "typePlaceholder": "메시지를 입력하세요...",
+      "online": "온라인",
+      "supportTitle": "SeaChat 지원"
+    }
+  },
+  "keyFeatures": {
+    "title": "SeaChat을 선택하는 이유",
+    "subtitle": "인간적인 터치와 AI 효율성의 완벽한 조합을 경험하세요. 무료로 시작하고, 스마트하게 확장하고, 더 빠르게 성공하세요.",
+    "aiAutomation": {
+      "hero": {
+        "title": "지능형 AI 자동화",
+        "subtitle": "학습하고 적응하는 AI로 고객 지원을 원활하게 확장",
+        "description": "우리의 고급 AI 기술이 고객 지원 운영을 어떻게 변화시키고, 필요할 때 인간적인 터치를 유지하면서 즉각적이고 정확한 응답을 제공하는지 알아보세요.",
+        "cta": "AI 무료 체험 시작",
+        "demo": "데모 보기"
+      },
+      "stats": {
+        "responseTime": {
+          "value": "< 2초",
+          "label": "평균 응답 시간"
+        },
+        "accuracy": {
+          "value": "95%",
+          "label": "응답 정확도"
+        },
+        "availability": {
+          "value": "24/7",
+          "label": "가용성"
+        },
+        "languages": {
+          "value": "50+",
+          "label": "지원 언어"
+        }
+      },
+      "aiStrengths": [
+        "24/7 즉시 응답",
+        "여러 문의의 일관된 처리",
+        "데이터 분석 및 인사이트",
+        "무제한 확장성",
+        "다국어 지원",
+        "지속적인 학습 및 개선"
+      ],
+      "humanStrengths": [
+        "공감과 감정적 이해",
+        "복잡한 문제 해결",
+        "솔루션의 창의성",
+        "개인적 관계 구축",
+        "독특한 상황에 대한 적응",
+        "윤리적 의사결정"
+      ],
+      "features": {
+        "title": "고급 AI 기능",
+        "subtitle": "우리의 AI 기술이 고객 지원 경험을 어떻게 향상시키는지 알아보세요",
+        "list": [
+          {
+            "title": "자연어 처리",
+            "description": "높은 정확도로 고객 문의를 이해하고 해석",
+            "icon": "MessageSquare"
+          },
+          {
+            "title": "적응형 학습",
+            "description": "상호작용을 기반으로 지속적으로 응답 개선",
+            "icon": "Brain"
+          },
+          {
+            "title": "원활한 통합",
+            "description": "AI와 인간 상담원 간의 부드러운 전환",
+            "icon": "Zap"
+          },
+          {
+            "title": "실시간 인사이트",
+            "description": "고객 지원 트렌드의 즉각적인 분석",
+            "icon": "BarChart3"
+          }
+        ]
+      },
+      "comparison": {
+        "title": "AI + 인간: 두 세계의 최고",
+        "subtitle": "AI와 인간 상담원이 어떻게 보완하여 뛰어난 고객 지원을 제공하는지 알아보세요",
+        "aiTitle": "AI의 강점",
+        "humanTitle": "인간의 강점",
+        "hybridTitle": "하이브리드 접근법",
+        "hybridDescription": "AI와 인간의 전문성을 결합하여 효율성, 공감, 고객 지원의 우수성을 제공하는 포괄적인 솔루션을 제공합니다."
+      },
+      "useCases": {
+        "title": "실제 사용 사례",
+        "subtitle": "AI 자동화가 모든 산업의 비즈니스를 어떻게 변화시키는지 확인하세요",
+        "cases": [
+          {
+            "title": "이커머스 지원",
+            "description": "제품 문의, 주문 추적, 반품 처리 자동화",
+            "metrics": {
+              "efficiency": "효율성 70% 향상",
+              "satisfaction": "고객 만족도 85%",
+              "cost": "비용 50% 절약"
+            }
+          },
+          {
+            "title": "SaaS 지원",
+            "description": "설정, 문제 해결, 기능에 대한 사용자 지원",
+            "metrics": {
+              "resolution": "첫 시도 해결률 90%",
+              "response": "응답 시간 < 30초",
+              "availability": "24/7 가용성"
+            }
+          },
+          {
+            "title": "금융 서비스",
+            "description": "계정 문의, 거래, 규정 준수 처리",
+            "metrics": {
+              "accuracy": "정확도 99%",
+              "security": "완전한 규정 준수",
+              "speed": "5배 빠름"
+            }
+          }
+        ]
+      },
+      "implementation": {
+        "title": "3단계 쉬운 구현",
+        "subtitle": "몇 달이 아닌 몇 분 만에 AI 자동화 시작",
+        "steps": [
+          {
+            "title": "콘텐츠 업로드",
+            "description": "기존 지식 베이스, FAQ, 문서 업로드",
+            "icon": "Upload"
+          },
+          {
+            "title": "AI 훈련",
+            "description": "시스템이 콘텐츠에서 학습하고 브랜드 목소리에 적응",
+            "icon": "Settings"
+          },
+          {
+            "title": "배포 및 모니터링",
+            "description": "라이브 운영 시작 및 지속적인 개선으로 성능 모니터링",
+            "icon": "Rocket"
+          }
+        ]
+      },
+      "cta": {
+        "title": "고객 지원을 변화시킬 준비가 되셨나요?",
+        "subtitle": "오늘 무료 체험을 시작하고 AI 자동화의 힘을 발견하세요",
+        "primaryButton": "무료 체험 시작",
+        "secondaryButton": "데모 예약"
+      }
+    },
+    "humanAgents": {
+      "title": "진정한 무료 인간 상담원 🍺 🎙️",
+      "description": "평생 무료 1명의 인간 상담원으로 시작하세요—네, 평생입니다! 제한 없음, 한도 없음, 숨겨진 조건 없음.",
+      "badge": "영원히 무료",
+      "highlights": [
+        "무제한 채팅 대화",
+        "무제한 채팅 기록 접근",
+        "무제한 연락처 및 네트워크 구축",
+        "모든 데이터를 자유롭게 내보내기"
+      ]
+    },
+    "aiAutomation": {
+      "title": "원활한 AI 자동화",
+      "description": "대화와 문서에서 학습하는 지능형 AI로 쉽게 확장하세요.",
+      "highlights": [
+        "스마트 자동 응답",
+        "상호작용에서 학습",
+        "맥락 인식 답변"
+      ]
+    },
+    "omnichannel": {
+      "title": "옴니채널 연결성",
+      "description": "일관된 지원을 위해 모든 통신 채널을 하나의 통합 플랫폼에 연결하세요.",
+      "highlights": [
+        "30+ 통합",
+        "통합 받은편지함",
+        "크로스 플랫폼 동기화"
+      ]
+    },
+    "trulyFree": {
+      "title": "진정한 무료 플랜 🍺 & 🎙️",
+      "description": "SeaChat의 인간 상담원 모드 소개: 비교할 수 없는 커뮤니케이션 자유로의 티켓! <span class=\"font-bold text-green-600\">평생 무료</span> 1명의 인간 상담원을 제공합니다—네, 들으신 그대로, 평생입니다!",
+      "freeFeatures": {
+        "unlimitedChat": {
+          "title": "무제한 채팅",
+          "description": "필요한 만큼 대화를 나눌 수 있으며, 제한이나 한도가 없습니다."
+        },
+        "unlimitedHistory": {
+          "title": "무제한 기록",
+          "description": "대화를 잃어버리지 않습니다—언제든지 전체 채팅 기록에 접근하세요."
+        },
+        "unlimitedContacts": {
+          "title": "무제한 연락처",
+          "description": "제한이나 연락처 한도 없이 네트워크를 구축하세요."
+        },
+        "freedomToExport": {
+          "title": "내보내기 자유",
+          "description": "당신의 데이터, 당신의 규칙—모든 채팅 기록을 쉽게 내보내세요."
+        }
+      },
+      "whyChoose": "왜 SeaChat을 선택해야 할까요? 진정으로 무료이기 때문입니다!",
+      "whatYouGet": "✅ 영원히 무료로 받는 것:",
+      "freeForeverFeatures": [
+        "평생 1명의 인간 상담원",
+        "무제한 채팅 대화",
+        "전체 채팅 기록 접근",
+        "무제한 연락처 관리",
+        "전체 데이터 내보내기 권한"
+      ],
+      "scaleWhenReady": "🚀 준비되면 확장:",
+      "scaleFeatures": [
+        "AI 자동화 추가",
+        "고급 통합",
+        "음성 상담원 기능",
+        "기업 보안",
+        "맞춤 워크플로우"
+      ],
+      "startButton": "지금 무료 상담원 시작하기 - 신용카드 필요 없음!"
+    },
+    "statsBar": {
+      "unlimited": "영원히 무제한 채팅",
+      "fileTypes": "30+ 파일 유형 지원",
+      "setupTime": "평균 2분 설정 시간",
+      "availability": "준비되면 24/7 AI 가용성"
+    }
+  },
+  "featureTabs": {
+    "title": "강력한 기능, 간단한 설정",
+    "subtitle": "고객 지원 경험을 혁신하도록 설계된 포괄적인 기능 세트를 탐색하세요.",
+    "tabs": {
+      "agentChat": "상담원 채팅",
+      "aiAgent": "AI 상담원",
+      "advancedAI": "고급 AI",
+      "knowledgeBase": "지식 베이스",
+      "integrations": "통합"
+    },
+    "content": {
+      "agentChat": {
+        "title": "인간 상담원 우수성",
+        "subtitle": "완전 무료 실제 인간 지원으로 시작",
+        "features": [
+          "무제한 무료 상담원 시간",
+          "실시간 대화 관리",
+          "다중 상담원 협업",
+          "고급 라벨링 및 라우팅",
+          "성능 분석",
+          "맞춤 워크플로우"
+        ],
+        "tryFeature": "이 기능 시도하기",
+        "watchDemo": "데모 보기"
+      },
+      "aiAgent": {
+        "title": "지능형 AI 자동화",
+        "subtitle": "학습하는 스마트 AI로 원활하게 확장",
+        "features": [
+          "맥락 인식 응답",
+          "대화에서 학습",
+          "원활한 인간 전환",
+          "다국어 지원",
+          "맞춤 AI 훈련",
+          "음성 상담원 기능"
+        ],
+        "tryFeature": "이 기능 시도하기",
+        "watchDemo": "데모 보기"
+      },
+      "advancedAI": {
+        "title": "차세대 AI 지능",
+        "subtitle": "개인화된 경험을 위한 고급 AI 기능",
+        "features": [
+          "검색 증강 생성(RAG)",
+          "장기 사용자 메모리 시스템",
+          "시간 인식 맥락 응답",
+          "스마트 맥락 추출",
+          "참조된 채팅 결과",
+          "지식 베이스 개선"
+        ],
+        "tryDemo": "고급 AI 데모 시도하기",
+        "watchAI": "AI 작동 보기"
+      },
+      "knowledgeBase": {
+        "title": "종합적인 지식 허브",
+        "subtitle": "30+ 파일 유형을 업로드하여 즉각적인 AI 응답 받기",
+        "features": [
+          "PDF, Excel, CSV, Word 지원",
+          "웹사이트 콘텐츠 수집",
+          "이미지 및 비디오 처리",
+          "풍부한 응답 형식",
+          "자동 업데이트 콘텐츠",
+          "버전 관리"
+        ],
+        "tryFeature": "이 기능 시도하기",
+        "watchDemo": "데모 보기"
+      },
+      "integrations": {
+        "title": "강력한 통합",
+        "subtitle": "좋아하는 도구 및 플랫폼과 연결",
+        "features": [
+          "CRM 통합(Salesforce, HubSpot)",
+          "일정 예약(Google, Outlook)",
+          "이커머스 플랫폼",
+          "마케팅 도구",
+          "맞춤 API 접근",
+          "웹훅 지원"
+        ],
+        "tryFeature": "이 기능 시도하기",
+        "watchDemo": "데모 보기"
+      }
+    }
+  },
+  "features": {
+    "voiceAgents": {
+      "hero": {
+        "title": "고급 음성 상담원",
+        "subtitle": "지능형 AI 상담원으로 음성 고객 지원을 변혁",
+        "description": "AI 기반 음성 상담원이 24시간 자연스럽고 반응성 높은 음성 지원을 제공하는 방법을 알아보세요.",
+        "cta": "음성 상담원 시험판 시작",
+        "demo": "데모 보기"
+      },
+      "featuresList": [
+        "자연 음성 처리",
+        "다국어 지원",
+        "전화 시스템 통합",
+        "음성 감정 분석",
+        "통화 녹음 및 분석",
+        "지능형 인간 에스컬레이션"
+      ]
+    }
+  },
+  "omnichannelDemo": {
+    "title": "고객이 있는 모든 곳에 배포",
+    "subtitle": "웹사이트, 소셜 미디어 및 커뮤니케이션 플랫폼 전반에 걸쳐 모든 고객 접점을 원활하게 연결하세요. 각 채널 위에 마우스를 올려 실시간 성능 지표를 확인하세요.",
+    "channels": {
+      "website": {
+        "name": "웹사이트",
+        "description": "모든 HTML 웹사이트에서 작동하는 범용 위젯"
+      },
+      "whatsapp": {
+        "name": "WhatsApp",
+        "description": "세계에서 가장 인기 있는 메시징 앱에서 고객과 연결"
+      },
+      "instagram": {
+        "name": "Instagram",
+        "description": "통합 받은편지함에서 Instagram DM 및 스토리 답장 관리"
+      },
+      "facebook": {
+        "name": "Facebook",
+        "description": "Facebook 메시징 플랫폼을 통한 고객 지원 제공"
+      },
+      "line": {
+        "name": "LINE",
+        "description": "인기 있는 아시아 메시징 플랫폼에서 고객과 연결"
+      },
+      "phone": {
+        "name": "전화 통화",
+        "description": "AI 음성 상담원으로 음성 지원 처리"
+      },
+      "email": {
+        "name": "이메일",
+        "description": "지능형 라우팅으로 이메일 티켓 관리"
+      },
+      "ecommerce": {
+        "name": "이커머스",
+        "description": "주문 관리를 위한 온라인 스토어 통합"
+      }
+    },
+    "platformCategories": {
+      "website": {
+        "title": "웹사이트 통합",
+        "description": "범용 위젯으로 모든 웹사이트 플랫폼에 배포"
+      },
+      "socialMedia": {
+        "title": "소셜 미디어",
+        "description": "고객이 선호하는 소셜 플랫폼에서 연결"
+      },
+      "traditional": {
+        "title": "전통적인 채널",
+        "description": "기존 통신 방법을 통한 지원 유지"
+      }
+    },
+    "quickSetup": {
+      "title": "모든 곳에 배포할 준비가 되셨나요?",
+      "subtitle": "간단한 통합 프로세스로 몇 분 안에 시작하세요",
+      "steps": [
+        {
+          "title": "채널 선택",
+          "description": "8+ 배포 옵션 중 선택"
+        },
+        {
+          "title": "코드 복사 및 붙여넣기",
+          "description": "간단한 위젯 설치"
+        },
+        {
+          "title": "채팅 시작",
+          "description": "즉시 고객 지원 시작"
+        }
+      ],
+      "button": "무료 배포 시작"
+    }
+  },
+  "pricing": {
+    "title": "함께 성장하는 가격 정책",
+    "subtitle": "인간 상담원으로 완전 무료로 시작하고, 확장할 준비가 되면 AI를 추가하세요.",
+    "monthly": "월간",
+    "yearly": "연간",
+    "save": "20% 절약",
+    "customize": "플랜 맞춤 설정",
+    "chatVolume": "월간 채팅 볼륨",
+    "agents": "상담원 수",
+    "plans": {
+      "free": {
+        "name": "영원히 무료",
+        "description": "인간 상담원으로 시작하기에 완벽",
+        "price": "0",
+        "period": "/월",
+        "features": [
+          "무제한 인간 상담원 시간",
+          "기본 채팅 위젯",
+          "이메일 지원",
+          "3개 채널(웹, 이메일, 전화)",
+          "기본 분석",
+          "커뮤니티 지원"
+        ],
+        "limitations": ["AI 자동화 없음", "제한된 통합"],
+        "button": "무료로 시작"
+      },
+      "starter": {
+        "name": "AI 스타터",
+        "description": "지원을 확장하기 위한 AI 자동화 추가",
+        "badge": "가장 인기",
+        "features": [
+          "무료 플랜의 모든 기능",
+          "AI 상담원 자동화",
+          "지식 베이스(5GB)",
+          "고급 분석",
+          "우선 이메일 지원",
+          "10개 통합",
+          "맞춤 브랜딩"
+        ],
+        "button": "AI 시험판 시작"
+      },
+      "growth": {
+        "name": "성장",
+        "description": "성장하는 팀을 위한 고급 기능",
+        "features": [
+          "스타터 플랜의 모든 기능",
+          "고급 AI 훈련",
+          "무제한 지식 베이스",
+          "음성 상담원",
+          "API 접근",
+          "맞춤 워크플로우",
+          "전화 지원"
+        ],
+        "button": "성장 플랜 시도"
+      },
+      "enterprise": {
+        "name": "기업",
+        "description": "대규모 조직을 위한 맞춤 솔루션",
+        "features": [
+          "성장 플랜의 모든 기능",
+          "전담 성공 관리자",
+          "맞춤 통합",
+          "고급 보안",
+          "SLA 보장",
+          "온프레미스 배포",
+          "24/7 전화 지원"
+        ],
+        "button": "영업팀 문의"
+      }
+    },
+    "enterprise": {
+      "title": "맞춤 솔루션이 필요하신가요?",
+      "description": "온프레미스 배포, 고급 보안 기능 및 전담 지원 팀을 포함한 맞춤형 기업 솔루션을 제공합니다.",
+      "button": "기업 데모 예약"
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "questions": [
+        {
+          "question": "무료 플랜은 정말로 영원히 무료인가요?",
+          "answer": "네! 무료 플랜에는 무제한 대화, 채팅 기록 및 연락처가 있는 1명의 인간 상담원이 평생 무료로 포함됩니다. 신용카드 필요 없음, 숨겨진 비용 없음."
+        },
+        {
+          "question": "언제든지 플랜을 업그레이드하거나 다운그레이드할 수 있나요?",
+          "answer": "물론입니다! 언제든지 플랜을 변경할 수 있습니다. 업그레이드는 즉시 적용되며, 다운그레이드는 현재 결제 주기가 끝날 때 적용됩니다."
+        },
+        {
+          "question": "취소하면 내 데이터는 어떻게 되나요?",
+          "answer": "귀하는 귀하의 데이터를 소유합니다. 무료 플랜에서도 언제든지 모든 채팅 기록, 연락처 및 지식 베이스 콘텐츠를 내보낼 수 있습니다."
+        },
+        {
+          "question": "대기업을 위한 맞춤 가격을 제공하나요?",
+          "answer": "네! 볼륨 할인, 전담 지원 및 특수 기능이 포함된 맞춤형 기업 솔루션을 제공합니다. 개인화된 견적을 위해 영업팀에 문의하세요."
+        }
+      ]
+    }
+  },
+  "knowledgeBase": {
+    "title": "강력한 지식 베이스",
+    "subtitle": "30개 이상의 파일 유형을 업로드하고 AI가 카드, 버튼, 이미지 및 비디오가 포함된 풍부한 맥락 응답을 제공하도록 하세요.",
+    "supportedFormats": {
+      "title": "지원되는 파일 유형",
+      "formats": {
+        "pdf": {
+          "name": "PDF 문서",
+          "count": "15개 파일"
+        },
+        "excel": {
+          "name": "Excel 시트",
+          "count": "8개 파일"
+        },
+        "word": {
+          "name": "Word 문서",
+          "count": "12개 파일"
+        },
+        "images": {
+          "name": "이미지",
+          "count": "25개 이미지"
+        },
+        "websites": {
+          "name": "웹사이트",
+          "count": "5개 사이트"
+        },
+        "videos": {
+          "name": "비디오",
+          "count": "3개 비디오"
+        }
+      },
+      "richResponse": {
+        "title": "풍부한 응답 형식:",
+        "features": [
+          "인터랙티브 카드",
+          "액션 버튼",
+          "임베디드 이미지",
+          "비디오 응답"
+        ]
+      },
+      "addDocuments": "문서 추가하기"
+    },
+    "uploadModal": {
+      "title": "문서 업로드",
+      "dropzone": {
+        "title": "여기에 파일을 드롭하세요",
+        "description": "PDF, Word, Excel, 이미지, 비디오 등 지원",
+        "button": "파일 선택"
+      },
+      "demoFiles": [
+        "sample_manual.pdf",
+        "product_data.xlsx",
+        "brand_guide.jpg"
+      ],
+      "close": "데모 닫기"
+    }
+  },
+  "useCases": {
+    "title": "산업 전반의 성공 사례",
+    "subtitle": "기업들이 SeaChat의 인간-AI 하이브리드 접근 방식으로 고객 지원을 어떻게 변화시키는지 확인하세요.",
+    "cases": {
+      "ecommerce": {
+        "title": "이커머스 지원 혁명",
+        "industry": "소매",
+        "challenge": "제한된 직원으로 여러 채널에서 하루 500개 이상의 고객 문의 관리",
+        "solution": "AI 상담원이 일상적인 문의의 70%를 처리하고, 인간 상담원이 복잡한 문제를 처리하는 SeaChat 배포",
+        "results": [
+          "응답 시간 60% 감소",
+          "고객 만족도 40% 증가",
+          "지원 운영 비용 75% 절감"
+        ],
+        "metrics": {
+          "responseTime": "< 30초",
+          "satisfaction": "94%",
+          "cost": "-75%"
+        }
+      },
+      "healthcare": {
+        "title": "헬스케어 환자 지원",
+        "industry": "헬스케어",
+        "challenge": "HIPAA 규정 준수를 유지하면서 24/7 환자 지원 제공",
+        "solution": "예약 및 증상 사전 스크리닝이 가능한 안전한 AI 상담원 통합",
+        "results": [
+          "24/7 환자 지원",
+          "노쇼 50% 감소",
+          "100% HIPAA 규정 준수 유지"
+        ],
+        "metrics": {
+          "availability": "24/7",
+          "noShows": "-50%",
+          "compliance": "100%"
+        }
+      },
+      "fintech": {
+        "title": "금융 서비스 우수성",
+        "industry": "핀테크",
+        "challenge": "속도와 보안을 갖춘 민감한 금융 쿼리 처리",
+        "solution": "금융 규정에 대한 맞춤형 AI 훈련과 원활한 인간 에스컬레이션",
+        "results": [
+          "90% 첫 접촉 해결",
+          "3배 빠른 쿼리 처리",
+          "강화된 보안 프로토콜"
+        ],
+        "metrics": {
+          "resolution": "90%",
+          "speed": "3배",
+          "security": "강화됨"
+        }
+      }
+    },
+    "cta": {
+      "title": "지원을 변화시킬 준비가 되셨나요?",
+      "description": "이미 SeaChat을 사용하여 탁월한 고객 경험을 제공하는 수백 개의 기업에 참여하세요.",
+      "buttons": {
+        "viewCases": "모든 사례 연구 보기",
+        "startStory": "성공 스토리 시작하기"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "전 세계 지원 팀이 사랑하는",
+    "subtitle": "우리 말만 믿지 마세요. SeaChat으로 지원을 변화시킨 고객들의 이야기를 들어보세요.",
+    "navigation": {
+      "previous": "이전",
+      "next": "다음"
+    },
+    "trustedBy": "혁신적인 기업들이 신뢰",
+    "stats": {
+      "customers": "10,000+ 행복한 고객",
+      "uptime": "99.9% 가동 시간",
+      "messages": "5천만+ 처리된 메시지",
+      "rating": "4.9/5 고객 평가"
+    }
+  },
+  "blog": {
+    "title": "최신 인사이트 및 리소스",
+    "subtitle": "고객 지원 트렌드, AI 구현 전략 및 플랫폼 최적화 팁에 대한 전문가 인사이트로 앞서 나가세요.",
+    "categories": {
+      "all": "전체",
+      "ai": "AI 및 자동화",
+      "strategy": "전략",
+      "integration": "통합",
+      "knowledge": "지식 관리",
+      "success": "고객 성공"
+    },
+    "featured": "주요 기사",
+    "latest": "최신 글",
+    "readTime": "분 읽기",
+    "stayUpdated": "최신 정보 유지",
+    "newsletterSubtitle": "AI 고객 지원, 플랫폼 업데이트 및 업계 모범 사례에 대한 최신 인사이트를 받아보세요.",
+    "joinProfessionals": "5,000명 이상의 지원 전문가와 함께하세요. 언제든지 구독 취소 가능."
+  },
+  "solutions": {
+    "fintech": {
+      "securityFeatures": [
+        "내장된 엔드투엔드 암호화",
+        "다중 인증",
+        "정기적인 보안 감사",
+        "데이터 보호"
+      ]
+    }
+  },
+  "footer": {
+    "product": "제품",
+    "company": "회사",
+    "resources": "리소스",
+    "legal": "법률 및 지원",
+    "getStarted": "시작할 준비가 되셨나요?",
+    "joinThousands": "이미 SeaChat을 사용하여 탁월한 고객 경험을 제공하는 수천 개의 기업에 참여하세요.",
+    "enterEmail": "이메일 입력",
+    "noCredit": "신용카드 필요 없음 • 2분 설정 • 언제든지 취소 가능",
+    "copyright": "© 2024 SeaChat. 모든 권리 보유.",
+    "compliance": "🔒 SOC 2 준수",
+    "gdpr": "🛡️ GDPR 준비",
+    "uptime": "⚡ 99.9% 가동 시간"
+  }
+}

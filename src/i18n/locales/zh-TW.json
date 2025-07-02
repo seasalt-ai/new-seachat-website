@@ -1,0 +1,732 @@
+{
+  "common": {
+    "getStarted": "免費開始使用",
+    "signIn": "登入",
+    "learnMore": "了解更多",
+    "readMore": "閱讀更多",
+    "viewAll": "查看全部文章",
+    "tryNow": "立即試用",
+    "contactUs": "聯絡我們",
+    "subscribe": "訂閱",
+    "search": "搜尋",
+    "back": "返回"
+  },
+  "header": {
+    "features": "功能",
+    "integrations": "整合",
+    "solutions": "解決方案",
+    "pricing": "價格",
+    "blog": "部落格",
+    "language": "語言",
+    "featuresDropdown": {
+      "humanAgents": "人工客服聊天",
+      "aiAutomation": "AI 自動化",
+      "advancedAI": "進階 AI 功能",
+      "knowledgeBase": "知識庫",
+      "voiceAgents": "語音客服",
+      "analytics": "分析與洞察",
+      "omnichannel": "全通路支援",
+      "api": "API 與開發者工具"
+    },
+    "integrationsDropdown": {
+      "websites": "網站平台",
+      "crm": "CRM 系統",
+      "ecommerce": "電子商務",
+      "socialMedia": "社群媒體",
+      "communication": "通訊工具",
+      "marketing": "行銷平台",
+      "calendar": "日曆與排程",
+      "api": "自訂 API"
+    },
+    "solutionsDropdown": {
+      "ecommerce": "電子商務與零售",
+      "healthcare": "醫療保健",
+      "fintech": "金融服務",
+      "education": "教育",
+      "realEstate": "房地產",
+      "travel": "旅遊與酒店",
+      "saas": "SaaS 與科技",
+      "smallBusiness": "小型企業"
+    }
+  },
+  "hero": {
+    "title": "免費開始使用",
+    "subtitle": "真人客服",
+    "description": "透過我們的全通路平台轉變客戶支援體驗。從零成本的真人客服開始，隨著成長無縫整合 AI 自動化。",
+    "startFree": "立即免費開始",
+    "exploreAI": "探索 AI 功能",
+    "alwaysFree": "永久免費方案",
+    "integrations": "30+ 種整合",
+    "setup": "2 分鐘完成設置",
+    "chat": {
+      "userMessage": "嗨！我需要關於我訂單的幫助",
+      "botMessage": "您好！我很樂意幫助您處理訂單問題。請問您能提供訂單號碼嗎？",
+      "userMessage2": "我可以幫您連接真人客服或提供即時 AI 協助。您希望如何繼續？",
+      "typePlaceholder": "輸入您的訊息...",
+      "online": "在線",
+      "supportTitle": "SeaChat 客服"
+    }
+  },
+  "keyFeatures": {
+    "title": "為何選擇 SeaChat？",
+    "subtitle": "體驗人性化服務與 AI 效率的完美結合。免費開始，智慧擴展，更快成功。",
+    "aiAutomation": {
+      "hero": {
+        "title": "智能 AI 自動化",
+        "subtitle": "透過學習和適應的 AI 無縫擴展客戶支援",
+        "description": "了解我們的先進 AI 技術如何轉變您的客戶支援營運，在需要時保持人性化觸感的同時提供即時準確的回應。",
+        "cta": "開始 AI 免費試用",
+        "demo": "觀看示範"
+      },
+      "stats": {
+        "responseTime": {
+          "value": "< 2秒",
+          "label": "平均回應時間"
+        },
+        "accuracy": {
+          "value": "95%",
+          "label": "回應準確度"
+        },
+        "availability": {
+          "value": "24/7",
+          "label": "可用性"
+        },
+        "languages": {
+          "value": "50+",
+          "label": "支援語言"
+        }
+      },
+      "aiStrengths": [
+        "24/7 即時回應",
+        "一致處理多個查詢",
+        "數據分析和洞察",
+        "無限擴展性",
+        "多語言支援",
+        "持續學習和改進"
+      ],
+      "humanStrengths": [
+        "同理心和情感理解",
+        "複雜問題解決",
+        "解決方案創意",
+        "建立個人關係",
+        "適應獨特情況",
+        "道德決策"
+      ],
+      "features": {
+        "title": "進階 AI 功能",
+        "subtitle": "了解我們的 AI 技術如何改善客戶支援體驗",
+        "list": [
+          {
+            "title": "自然語言處理",
+            "description": "高精度理解和解釋客戶查詢",
+            "icon": "MessageSquare"
+          },
+          {
+            "title": "適應性學習",
+            "description": "基於互動持續改善回應",
+            "icon": "Brain"
+          },
+          {
+            "title": "無縫整合",
+            "description": "AI 和人工客服之間的順暢轉換",
+            "icon": "Zap"
+          },
+          {
+            "title": "即時洞察",
+            "description": "客戶支援趨勢的即時分析",
+            "icon": "BarChart3"
+          }
+        ]
+      },
+      "comparison": {
+        "title": "AI + 人類：兩個世界的最佳結合",
+        "subtitle": "了解 AI 和人工客服如何互補，提供卓越的客戶支援",
+        "aiTitle": "AI 的優勢",
+        "humanTitle": "人類的優勢",
+        "hybridTitle": "混合方法",
+        "hybridDescription": "通過結合 AI 和人類專業知識，我們提供全面的解決方案，帶來效率、同理心和客戶支援的卓越性。"
+      },
+      "useCases": {
+        "title": "真實世界使用案例",
+        "subtitle": "看看 AI 自動化如何轉變各行業的企業",
+        "cases": [
+          {
+            "title": "電商支援",
+            "description": "自動化產品查詢、訂單追蹤和退貨處理",
+            "metrics": {
+              "efficiency": "效率提升 70%",
+              "satisfaction": "客戶滿意度 85%",
+              "cost": "成本節省 50%"
+            }
+          },
+          {
+            "title": "SaaS 支援",
+            "description": "協助用戶設置、故障排除和功能使用",
+            "metrics": {
+              "resolution": "首次解決率 90%",
+              "response": "回應時間 < 30秒",
+              "availability": "24/7 可用性"
+            }
+          },
+          {
+            "title": "金融服務",
+            "description": "處理帳戶查詢、交易和合規問題",
+            "metrics": {
+              "accuracy": "準確度 99%",
+              "security": "完全合規",
+              "speed": "速度提升 5倍"
+            }
+          }
+        ]
+      },
+      "implementation": {
+        "title": "3 步驟輕鬆實施",
+        "subtitle": "在幾分鐘內開始 AI 自動化，而不是幾個月",
+        "steps": [
+          {
+            "title": "上傳內容",
+            "description": "上傳您的知識庫、常見問題和現有文檔",
+            "icon": "Upload"
+          },
+          {
+            "title": "訓練 AI",
+            "description": "我們的系統從您的內容中學習並適應您的品牌聲音",
+            "icon": "Settings"
+          },
+          {
+            "title": "部署和監控",
+            "description": "上線運行並通過持續改進監控性能",
+            "icon": "Rocket"
+          }
+        ]
+      },
+      "cta": {
+        "title": "準備好轉變客戶支援了嗎？",
+        "subtitle": "今天開始您的免費試用，發現 AI 自動化的力量",
+        "primaryButton": "開始免費試用",
+        "secondaryButton": "安排示範"
+      }
+    },
+    "humanAgents": {
+      "title": "真正免費的人工客服 🍺 🎙️",
+      "description": "從 1 位終身免費的人工客服開始—是的，終身免費！無上限，無限制，無隱藏條件。",
+      "badge": "永久免費",
+      "highlights": [
+        "無限聊天對話",
+        "無限聊天歷史記錄存取",
+        "無限聯絡人與網絡建立",
+        "自由匯出所有資料"
+      ]
+    },
+    "aiAutomation": {
+      "title": "無縫 AI 自動化",
+      "description": "透過從對話和文件中學習的智能 AI 輕鬆擴展。",
+      "highlights": [
+        "智能自動回覆",
+        "從互動中學習",
+        "情境感知回應"
+      ]
+    },
+    "omnichannel": {
+      "title": "全通路連接",
+      "description": "在一個統一平台中連接所有通訊渠道，提供一致的支援。",
+      "highlights": [
+        "30+ 種整合",
+        "統一收件匣",
+        "跨平台同步"
+      ]
+    },
+    "trulyFree": {
+      "title": "真正免費如同免費啤酒 🍺 & 麥克風 🎙️",
+      "description": "介紹 SeaChat 的人工客服模式：您通往無與倫比溝通自由的門票！我們很高興提供 1 位<span class=\"font-bold text-green-600\">終身免費</span>的人工客服—是的，您沒聽錯，終身免費！",
+      "freeFeatures": {
+        "unlimitedChat": {
+          "title": "無限聊天",
+          "description": "進行您需要的任何數量的對話，沒有上限或限制。"
+        },
+        "unlimitedHistory": {
+          "title": "無限歷史記錄",
+          "description": "永不丟失對話—隨時存取您的完整聊天歷史。"
+        },
+        "unlimitedContacts": {
+          "title": "無限聯絡人",
+          "description": "建立您的網絡，沒有任何限制或聯絡人上限。"
+        },
+        "freedomToExport": {
+          "title": "自由匯出",
+          "description": "您的資料，您的規則—輕鬆匯出所有聊天歷史。"
+        }
+      },
+      "whyChoose": "為什麼選擇 SeaChat？因為它真的免費！",
+      "whatYouGet": "✅ 您永久免費獲得：",
+      "freeForeverFeatures": [
+        "1 位終身人工客服",
+        "無限聊天對話",
+        "完整聊天歷史存取",
+        "無限聯絡人管理",
+        "完整資料匯出權限"
+      ],
+      "scaleWhenReady": "🚀 準備好時再擴展：",
+      "scaleFeatures": [
+        "添加 AI 自動化",
+        "進階整合",
+        "語音客服功能",
+        "企業級安全",
+        "自訂工作流程"
+      ],
+      "startButton": "立即開始使用免費客服 - 無需信用卡！"
+    },
+    "statsBar": {
+      "unlimited": "永久無限聊天",
+      "fileTypes": "支援 30+ 檔案類型",
+      "setupTime": "平均 2 分鐘設置時間",
+      "availability": "準備好時 24/7 AI 可用性"
+    }
+  },
+  "featureTabs": {
+    "title": "強大功能，簡易設置",
+    "subtitle": "探索我們全面的功能集，專為轉變您的客戶支援體驗而設計。",
+    "tabs": {
+      "agentChat": "客服聊天",
+      "aiAgent": "AI 客服",
+      "advancedAI": "進階 AI",
+      "knowledgeBase": "知識庫",
+      "integrations": "整合"
+    },
+    "content": {
+      "agentChat": {
+        "title": "人工客服卓越體驗",
+        "subtitle": "從完全免費的真人支援開始",
+        "features": [
+          "無限免費客服時數",
+          "即時對話管理",
+          "多客服協作",
+          "進階標籤和路由",
+          "績效分析",
+          "自訂工作流程"
+        ],
+        "tryFeature": "試用此功能",
+        "watchDemo": "觀看示範"
+      },
+      "aiAgent": {
+        "title": "智能 AI 自動化",
+        "subtitle": "透過會學習的智能 AI 無縫擴展",
+        "features": [
+          "情境感知回應",
+          "從對話中學習",
+          "無縫人工交接",
+          "多語言支援",
+          "自訂 AI 訓練",
+          "語音客服功能"
+        ],
+        "tryFeature": "試用此功能",
+        "watchDemo": "觀看示範"
+      },
+      "advancedAI": {
+        "title": "下一代 AI 智能",
+        "subtitle": "進階 AI 功能提供個人化體驗",
+        "features": [
+          "檢索增強生成 (RAG)",
+          "長期用戶記憶系統",
+          "時間感知情境回應",
+          "智能情境提取",
+          "引用聊天結果",
+          "知識庫優化"
+        ],
+        "tryDemo": "試用進階 AI 示範",
+        "watchAI": "觀看 AI 運作"
+      },
+      "knowledgeBase": {
+        "title": "全面知識中心",
+        "subtitle": "上傳 30+ 檔案類型獲得即時 AI 回應",
+        "features": [
+          "支援 PDF、Excel、CSV、Word",
+          "網站內容擷取",
+          "圖像和影片處理",
+          "豐富回應格式",
+          "自動更新內容",
+          "版本控制"
+        ],
+        "tryFeature": "試用此功能",
+        "watchDemo": "觀看示範"
+      },
+      "integrations": {
+        "title": "強大整合",
+        "subtitle": "與您喜愛的工具和平台連接",
+        "features": [
+          "CRM 整合 (Salesforce, HubSpot)",
+          "日曆預約 (Google, Outlook)",
+          "電子商務平台",
+          "行銷工具",
+          "自訂 API 存取",
+          "Webhook 支援"
+        ],
+        "tryFeature": "試用此功能",
+        "watchDemo": "觀看示範"
+      }
+    }
+  },
+  "features": {
+    "voiceAgents": {
+      "hero": {
+        "title": "進階語音客服",
+        "subtitle": "透過智能 AI 客服轉變語音客戶支援",
+        "description": "了解我們的 AI 驅動語音客服如何提供 24 小時自然且響應迅速的語音支援。",
+        "cta": "開始語音客服試用",
+        "demo": "觀看示範"
+      },
+      "featuresList": [
+        "自然語音處理",
+        "多語言支援",
+        "電話系統整合",
+        "語音情感分析",
+        "通話錄音與分析",
+        "智能人工升級"
+      ]
+    }
+  },
+  "omnichannelDemo": {
+    "title": "在客戶所在的每個地方部署",
+    "subtitle": "無縫連接您的所有客戶接觸點，包括網站、社群媒體和通訊平台。將滑鼠懸停在每個渠道上查看即時績效指標。",
+    "channels": {
+      "website": {
+        "name": "網站",
+        "description": "適用於任何 HTML 網站的通用小工具"
+      },
+      "whatsapp": {
+        "name": "WhatsApp",
+        "description": "在全球最受歡迎的訊息應用程式上與客戶連接"
+      },
+      "instagram": {
+        "name": "Instagram",
+        "description": "在統一收件匣中管理 Instagram 私訊和限時動態回覆"
+      },
+      "facebook": {
+        "name": "Facebook",
+        "description": "透過 Facebook 的訊息平台提供客戶支援"
+      },
+      "line": {
+        "name": "LINE",
+        "description": "在熱門的亞洲訊息平台上與客戶連接"
+      },
+      "phone": {
+        "name": "電話",
+        "description": "使用 AI 語音客服處理語音支援"
+      },
+      "email": {
+        "name": "電子郵件",
+        "description": "使用智能路由管理電子郵件工單"
+      },
+      "ecommerce": {
+        "name": "電子商務",
+        "description": "與線上商店整合進行訂單管理"
+      }
+    },
+    "platformCategories": {
+      "website": {
+        "title": "網站整合",
+        "description": "使用我們的通用小工具在任何網站平台上部署"
+      },
+      "socialMedia": {
+        "title": "社群媒體",
+        "description": "在客戶喜愛的社群平台上與他們連接"
+      },
+      "traditional": {
+        "title": "傳統渠道",
+        "description": "透過經典通訊方式維持支援"
+      }
+    },
+    "quickSetup": {
+      "title": "準備好在各處部署了嗎？",
+      "subtitle": "透過我們簡單的整合流程在幾分鐘內開始",
+      "steps": [
+        {
+          "title": "選擇您的渠道",
+          "description": "從 8+ 種部署選項中選擇"
+        },
+        {
+          "title": "複製並貼上代碼",
+          "description": "簡易小工具安裝"
+        },
+        {
+          "title": "開始聊天",
+          "description": "立即開始支援客戶"
+        }
+      ],
+      "button": "開始免費部署"
+    }
+  },
+  "pricing": {
+    "title": "與您一同成長的價格方案",
+    "subtitle": "從完全免費的人工客服開始，準備好擴展時再添加 AI。",
+    "monthly": "月付",
+    "yearly": "年付",
+    "save": "節省 20%",
+    "customize": "自訂您的方案",
+    "chatVolume": "每月聊天量",
+    "agents": "客服數量",
+    "plans": {
+      "free": {
+        "name": "永久免費",
+        "description": "非常適合開始使用人工客服",
+        "price": "0",
+        "period": "/月",
+        "features": [
+          "無限人工客服時數",
+          "基本聊天小工具",
+          "電子郵件支援",
+          "3 個渠道 (網站, 電子郵件, 電話)",
+          "基本分析",
+          "社群支援"
+        ],
+        "limitations": ["無 AI 自動化", "有限整合"],
+        "button": "免費開始"
+      },
+      "starter": {
+        "name": "AI 入門",
+        "description": "添加 AI 自動化以擴展您的支援",
+        "badge": "最受歡迎",
+        "features": [
+          "免費版的所有功能",
+          "AI 客服自動化",
+          "知識庫 (5GB)",
+          "進階分析",
+          "優先電子郵件支援",
+          "10 種整合",
+          "自訂品牌"
+        ],
+        "button": "開始 AI 試用"
+      },
+      "growth": {
+        "name": "成長",
+        "description": "為成長中的團隊提供進階功能",
+        "features": [
+          "入門版的所有功能",
+          "進階 AI 訓練",
+          "無限知識庫",
+          "語音客服",
+          "API 存取",
+          "自訂工作流程",
+          "電話支援"
+        ],
+        "button": "試用成長版"
+      },
+      "enterprise": {
+        "name": "企業",
+        "description": "為大型組織提供客製化解決方案",
+        "features": [
+          "成長版的所有功能",
+          "專屬成功經理",
+          "自訂整合",
+          "進階安全性",
+          "SLA 保證",
+          "本地部署",
+          "24/7 電話支援"
+        ],
+        "button": "聯絡銷售"
+      }
+    },
+    "enterprise": {
+      "title": "需要客製化方案？",
+      "description": "我們提供客製化企業解決方案，包括本地部署、進階安全功能和專屬支援團隊。",
+      "button": "安排企業示範"
+    },
+    "faq": {
+      "title": "常見問題",
+      "questions": [
+        {
+          "question": "免費方案真的永久免費嗎？",
+          "answer": "是的！我們的免費方案包含 1 位終身免費的人工客服，提供無限對話、聊天歷史和聯絡人。無需信用卡，無隱藏費用。"
+        },
+        {
+          "question": "我可以隨時升級或降級我的方案嗎？",
+          "answer": "當然可以！您可以隨時更改您的方案。升級立即生效，降級則在您當前計費週期結束時生效。"
+        },
+        {
+          "question": "如果我取消，我的資料會怎樣？",
+          "answer": "您擁有您的資料。您可以隨時匯出所有聊天歷史、聯絡人和知識庫內容，即使是在免費方案中。"
+        },
+        {
+          "question": "您為大型企業提供客製化定價嗎？",
+          "answer": "是的！我們為企業提供客製化解決方案，包括批量折扣、專屬支援和專業功能。請聯絡我們的銷售團隊獲取個人化報價。"
+        }
+      ]
+    }
+  },
+  "knowledgeBase": {
+    "title": "強大知識庫",
+    "subtitle": "上傳 30+ 種檔案類型，讓 AI 提供豐富、情境化的回應，包括卡片、按鈕、圖像和影片。",
+    "supportedFormats": {
+      "title": "支援的檔案類型",
+      "formats": {
+        "pdf": {
+          "name": "PDF 文件",
+          "count": "15 個檔案"
+        },
+        "excel": {
+          "name": "Excel 表格",
+          "count": "8 個檔案"
+        },
+        "word": {
+          "name": "Word 文件",
+          "count": "12 個檔案"
+        },
+        "images": {
+          "name": "圖像",
+          "count": "25 張圖片"
+        },
+        "websites": {
+          "name": "網站",
+          "count": "5 個網站"
+        },
+        "videos": {
+          "name": "影片",
+          "count": "3 個影片"
+        }
+      },
+      "richResponse": {
+        "title": "豐富回應格式：",
+        "features": [
+          "互動卡片",
+          "動作按鈕",
+          "嵌入圖像",
+          "影片回應"
+        ]
+      },
+      "addDocuments": "添加您的文件"
+    },
+    "uploadModal": {
+      "title": "上傳您的文件",
+      "dropzone": {
+        "title": "將您的檔案拖放到這裡",
+        "description": "支援 PDF、Word、Excel、圖像、影片等",
+        "button": "選擇檔案"
+      },
+      "demoFiles": [
+        "sample_manual.pdf",
+        "product_data.xlsx",
+        "brand_guide.jpg"
+      ],
+      "close": "關閉示範"
+    }
+  },
+  "useCases": {
+    "title": "跨行業成功案例",
+    "subtitle": "了解企業如何透過 SeaChat 的人工-AI 混合方法轉變客戶支援。",
+    "cases": {
+      "ecommerce": {
+        "title": "電子商務支援革命",
+        "industry": "零售",
+        "challenge": "在人員有限的情況下管理每日 500+ 跨多渠道的客戶查詢",
+        "solution": "部署 SeaChat，AI 客服處理 70% 的常規查詢，人工客服處理複雜問題",
+        "results": [
+          "回應時間減少 60%",
+          "客戶滿意度提高 40%",
+          "支援運營成本節省 75%"
+        ],
+        "metrics": {
+          "responseTime": "< 30秒",
+          "satisfaction": "94%",
+          "cost": "-75%"
+        }
+      },
+      "healthcare": {
+        "title": "醫療保健病患支援",
+        "industry": "醫療保健",
+        "challenge": "提供 24/7 病患支援同時保持 HIPAA 合規",
+        "solution": "整合安全的 AI 客服，提供預約和症狀預篩選",
+        "results": [
+          "24/7 病患協助",
+          "未赴約率減少 50%",
+          "保持 100% HIPAA 合規"
+        ],
+        "metrics": {
+          "availability": "24/7",
+          "noShows": "-50%",
+          "compliance": "100%"
+        }
+      },
+      "fintech": {
+        "title": "金融服務卓越",
+        "industry": "金融科技",
+        "challenge": "以速度和安全性處理敏感金融查詢",
+        "solution": "針對金融法規的自訂 AI 訓練，無縫人工升級",
+        "results": [
+          "90% 首次聯繫解決率",
+          "查詢處理速度提高 3 倍",
+          "增強安全協議"
+        ],
+        "metrics": {
+          "resolution": "90%",
+          "speed": "3倍",
+          "security": "增強"
+        }
+      }
+    },
+    "cta": {
+      "title": "準備好轉變您的支援？",
+      "description": "加入已經使用 SeaChat 提供卓越客戶體驗的數百家企業。",
+      "buttons": {
+        "viewCases": "查看所有案例研究",
+        "startStory": "開始您的成功故事"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "全球支援團隊的喜愛",
+    "subtitle": "不只是聽我們說。這是我們的客戶對使用 SeaChat 轉變他們的支援的評價。",
+    "navigation": {
+      "previous": "上一個",
+      "next": "下一個"
+    },
+    "trustedBy": "受到創新公司的信任",
+    "stats": {
+      "customers": "10,000+ 滿意客戶",
+      "uptime": "99.9% 運行時間",
+      "messages": "50M+ 處理訊息",
+      "rating": "4.9/5 客戶評分"
+    }
+  },
+  "blog": {
+    "title": "最新洞察與資源",
+    "subtitle": "透過客戶支援趨勢、AI 實施策略和平台優化技巧的專家洞察保持領先。",
+    "categories": {
+      "all": "全部",
+      "ai": "AI 與自動化",
+      "strategy": "策略",
+      "integration": "整合",
+      "knowledge": "知識管理",
+      "success": "客戶成功"
+    },
+    "featured": "精選",
+    "latest": "最新文章",
+    "readTime": "分鐘閱讀",
+    "stayUpdated": "保持最新",
+    "newsletterSubtitle": "獲取有關 AI 客戶支援、平台更新和行業最佳實踐的最新洞察，直接發送到您的收件匣。",
+    "joinProfessionals": "加入 5,000+ 支援專業人士。隨時可取消訂閱。"
+  },
+  "solutions": {
+    "fintech": {
+      "securityFeatures": [
+        "內建端到端加密",
+        "多重身份驗證",
+        "定期安全稽核",
+        "資料保護"
+      ]
+    }
+  },
+  "footer": {
+    "product": "產品",
+    "company": "公司",
+    "resources": "資源",
+    "legal": "法律與支援",
+    "getStarted": "準備開始使用？",
+    "joinThousands": "加入已經使用 SeaChat 提供卓越客戶體驗的數千家企業。",
+    "enterEmail": "輸入您的電子郵件",
+    "noCredit": "無需信用卡 • 2 分鐘設置 • 隨時取消",
+    "copyright": "© 2024 SeaChat. 保留所有權利。",
+    "compliance": "🔒 SOC 2 合規",
+    "gdpr": "🛡️ GDPR 就緒",
+    "uptime": "⚡ 99.9% 運行時間"
+  }
+}
